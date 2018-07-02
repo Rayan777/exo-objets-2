@@ -5,3 +5,11 @@ var guerrier = {
   force : 1000,
   arme : "kunai",
 };
+
+var mage = {
+  nom : "Megumin",
+  age : 17,
+  taille : 157,
+  puissance : 960,
+  arme : "baton",
+};
