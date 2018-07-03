@@ -30,6 +30,7 @@ var weap = guerrier.arme.substring(1, 3);
 var atout = ["rapide", "discret"];
 var atout2 = ["instakill", "foudre"];
 var atouts = atout.concat(atout2);
+var taille_kakashi = guerrier.taille + " cm";
 
 var megumin = mage.nom.length;
 var m = mage.nom.charAt(0);
@@ -37,6 +38,7 @@ var weap = mage.arme.substring(2, 4);
 var atout3 = ["mignonne", "courageuse"];
 var atout4 = ["instakill", "feu"];
 var atouts2 = atout3.concat(atout4);
+var taille_megumin = mage.taille + " cm";
 
 var eren = paysan.nom.length;
 var e = paysan.nom.charAt(0);
@@ -44,3 +46,4 @@ var weap = mage.arme.substring(1, 2);
 var atout5 = ["transformation", "esprit vengeur"];
 var atout6 = ["Titan", "force brute"];
 var atouts3 = atout5.concat(atout6);
+var taille_eren = paysan.taille + " cm";
