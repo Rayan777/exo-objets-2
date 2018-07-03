@@ -23,3 +23,10 @@ var paysan = {
   attaque  : 500,
   arme : "transformation"
 }
+
+var kakashi = guerrier.nom.length;
+var k = guerrier.nom.charAt(0);
+var weap = guerrier.arme.substring(1, 3);
+var atout = ["rapide", "discret"];
+var atout2 = ["instakill", "foudre"];
+var atouts = atout.concat(atout2);
