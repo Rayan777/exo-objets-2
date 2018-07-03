@@ -30,3 +30,10 @@ var weap = guerrier.arme.substring(1, 3);
 var atout = ["rapide", "discret"];
 var atout2 = ["instakill", "foudre"];
 var atouts = atout.concat(atout2);
+
+var megumin = mage.nom.length;
+var m = mage.nom.charAt(0);
+var weap = mage.arme.substring(2, 4);
+var atout = ["mignonne", "courageuse"];
+var atout2 = ["instakill", "feu"];
+var atouts = atout.concat(atout2);
