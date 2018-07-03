@@ -34,6 +34,13 @@ var atouts = atout.concat(atout2);
 var megumin = mage.nom.length;
 var m = mage.nom.charAt(0);
 var weap = mage.arme.substring(2, 4);
-var atout = ["mignonne", "courageuse"];
-var atout2 = ["instakill", "feu"];
-var atouts = atout.concat(atout2);
+var atout3 = ["mignonne", "courageuse"];
+var atout4 = ["instakill", "feu"];
+var atouts2 = atout3.concat(atout4);
+
+var eren = paysan.nom.length;
+var e = paysan.nom.charAt(0);
+var weap = mage.arme.substring(1, 2);
+var atout5 = ["transformation", "esprit vengeur"];
+var atout6 = ["Titan", "force brute"];
+var atouts3 = atout5.concat(atout6);
